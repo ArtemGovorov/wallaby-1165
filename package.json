@@ -1,0 +1,16 @@
+{
+  "name": "wallaby-1165",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^3.5.0",
+    "flow-bin": "^0.45.0",
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0"
+  }
+}
