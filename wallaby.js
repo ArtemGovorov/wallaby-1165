@@ -19,5 +19,7 @@ module.exports = wallaby => ({
 
   bootstrap: () => {
     require('babel-polyfill');
-  }
+  },
+  
+  runAllTestsInAffectedTestFile: true
 });
